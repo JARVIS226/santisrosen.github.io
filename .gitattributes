@@ -1,2 +1,55 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>El sistema solar</h1>     
+    <img src="https://significado.com/img/ciencia/Sistema-Solar-planetas-sol.jpg" width="1000px" alt="Sistema solar">
+    <p>Conformado por planetas</p>
+       
+    <ul>
+        <li>Sol</li>
+        <li>Mercurio</li>
+        <li>Venus</li>
+        <li>Tierra</li>
+        <li>Marte</li>
+        <li>Jupiter</li>
+        <li>Saturno</li>
+
+    </ul>
+
+    <table border="1,5">
+        <h1>Planetas y ubicacion</h1>
+        <tr>
+            <td colspan="3"> Posición </td>
+        </tr>
+        <tr>
+            <td>Planeta</td>
+            <td>Color</td>  
+            <td>Ubicacion</td>
+        </tr>
+        <tr>
+            <td>Mercurio <img src="https://spaceplace.nasa.gov/review/all-about-mercury/mercury3.sp.jpg" width="100px" alt="mercurio"></td>
+            <td>Marron</td>  
+            <td>Primero</td>
+        </tr>
+        <tr>
+            <td>Venus <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Venus_globe.jpg/800px-Venus_globe.jpg" width="100px" alt="venus"> </td>
+            <td>Anaranjado</td>  
+            <td>Segundo</td>
+        </tr>
+
+
+
+
+
+    </table>
+</body>
+</html>
